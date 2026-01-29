@@ -24,7 +24,8 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    ""
+    "https://civitai.com/api/download/models/1190596?type=Model&format=SafeTensor&size=full&fp=bf16" # NoobAI-XL (NAI-XL): V-Pred-1.0-Version
+    "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16" # WAI-illustrious-SDXL: v15.0
 )
 
 UNET_MODELS=(
@@ -33,6 +34,7 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
+    "https://civitai.com/api/download/models/1192123?type=Model&format=SafeTensor" # Excessive XXX (or XXXX), XXXXXX - AnXL,Pony,Noob: noob1.1 high influence
 )
 
 VAE_MODELS=(
