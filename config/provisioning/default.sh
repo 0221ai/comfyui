@@ -24,9 +24,10 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    #"https://civitai.com/api/download/models/1190596?type=Model&format=SafeTensor&size=full&fp=bf16" # NoobAI-XL (NAI-XL): V-Pred-1.0-Version
-    #"https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16" # WAI-illustrious-SDXL: v15.0
-    #"https://huggingface.co/OnomaAIResearch/Illustrious-XL-v2.0/resolve/main/Illustrious-XL-v2.0.safetensors" # OnomaAIResearch/Illustrious-XL-v2.0
+    #"https://civitai.com/api/download/models/1190596?type=Model&format=SafeTensor&size=full&fp=bf16" #NoobAI-XL (NAI-XL): V-Pred-1.0-Version
+    #"https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16" #WAI-illustrious-SDXL: v15.0
+    #"https://huggingface.co/OnomaAIResearch/Illustrious-XL-v2.0/resolve/main/Illustrious-XL-v2.0.safetensors" #OnomaAIResearch/Illustrious-XL-v2.0
+    "https://civitai.com/api/download/models/2578958?token=531461348ebfb873e4954b6d165590e0" #Prefect illustrious XL v6.0 #https://civitai.com/models/1224788/prefect-illustrious-xl
 )
 
 UNET_MODELS=(
@@ -35,12 +36,14 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
-    "https://civitai.com/api/download/models/1192123?token=531461348ebfb873e4954b6d165590e0" # Excessive XXX (or XXXX), XXXXXX - AnXL,Pony,Noob: noob1.1 high influence
-    #"https://huggingface.co/Fluffypanzer/UterusShape/resolve/main/Shaped_Uterus.safetensors" # Fluffypanzer/UterusShape
+    "https://civitai.com/api/download/models/1192123?token=531461348ebfb873e4954b6d165590e0" #Excessive XXX (or XXXX), XXXXXX - AnXL,Pony,Noob: noob1.1 high influence
+    "https://civitai.com/api/download/models/1391289?token=531461348ebfb873e4954b6d165590e0" #Uterus: XL-v2.0 # https://civitai.com/models/475197/uterus
+    "https://civitai.com/api/download/models/1828059?token=531461348ebfb873e4954b6d165590e0" #tentacle milking v1.0_typeR_Illustrious # https://civitai.com/models/1126403/tentacle-milking
+    #"https://huggingface.co/Fluffypanzer/UterusShape/resolve/main/Shaped_Uterus.safetensors" #Fluffypanzer/UterusShape
 )
 
 VAE_MODELS=(
-
+    "https://civitai.com/api/download/models/1916060?token=531461348ebfb873e4954b6d165590e0" #Illustrious-XL-v1.0 # https://civitai.com/models/1693029/illustrious-xl-v10
 )
 
 UPSCALE_MODELS=(
