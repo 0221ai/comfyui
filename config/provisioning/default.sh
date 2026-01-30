@@ -34,7 +34,7 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
-    "https://civitai.com/api/download/models/1192123?type=Model&format=SafeTensor&token=57ad1d485bf80287a6c4e9680cccfd6e" # Excessive XXX (or XXXX), XXXXXX - AnXL,Pony,Noob: noob1.1 high influence
+    "https://civitai.com/api/download/models/1192123?type=Model&format=SafeTensor" # Excessive XXX (or XXXX), XXXXXX - AnXL,Pony,Noob: noob1.1 high influence
 )
 
 VAE_MODELS=(
