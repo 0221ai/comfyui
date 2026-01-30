@@ -35,7 +35,7 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
-    "https://civitai.com/api/download/models/1192123" # Excessive XXX (or XXXX), XXXXXX - AnXL,Pony,Noob: noob1.1 high influence
+    "https://civitai.com/api/download/models/1192123?token=531461348ebfb873e4954b6d165590e0" # Excessive XXX (or XXXX), XXXXXX - AnXL,Pony,Noob: noob1.1 high influence
     #"https://huggingface.co/Fluffypanzer/UterusShape/resolve/main/Shaped_Uterus.safetensors" # Fluffypanzer/UterusShape
 )
 
