@@ -24,8 +24,8 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/1190596?type=Model&format=SafeTensor&size=full&fp=bf16" # NoobAI-XL (NAI-XL): V-Pred-1.0-Version
-    "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16" # WAI-illustrious-SDXL: v15.0
+    #"https://civitai.com/api/download/models/1190596?type=Model&format=SafeTensor&size=full&fp=bf16" # NoobAI-XL (NAI-XL): V-Pred-1.0-Version
+    #"https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16" # WAI-illustrious-SDXL: v15.0
 )
 
 UNET_MODELS=(
